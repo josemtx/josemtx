@@ -1,8 +1,6 @@
 # 👋 Hola, soy Jose Mataix Perez
 
 🎓 **Estudiante de último año en Ciencia e Ingeniería de Datos (ULPGC)**  
-🚀 **En búsqueda activa de Prácticas Remuneradas + Trabajo de Fin de Grado (TFG)**  
-⏱️ **Disponibilidad horaria casi total** (solo una asignatura por cuatrimestre)
 
 ---
 
