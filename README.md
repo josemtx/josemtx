@@ -48,13 +48,13 @@
 ### 📌 Proyectos Destacados
 
 #### **Proyectos Principales**
-* ⚡ **[`ptq-int8-project`](https://github.com/jose-mataix-perez/ptq-int8-project)**: Motor de cuantización post-entrenamiento (PTQ) en NumPy puro con reducción del 75% del tamaño de red sin pérdida de precisión.
-* 📈 **[`crypto-watcher`](https://github.com/jose-mataix-perez/crypto-watcher)**: Plataforma de inteligencia de mercado en tiempo real con arquitecturas Kappa y Hexagonal en Java 21 + ActiveMQ y análisis de sentimiento NLP.
-* 🚗 **[`TriCar`](https://github.com/jose-mataix-perez/TriCar)**: Aplicación web Full-Stack (MERN) con algoritmo ponderado para asignación equitativa de conductores y balance de deudas.
+* ⚡ **[`ptq-int8-project`](https://github.com/josemtx/ptq-int8-project)**: Motor de cuantización post-entrenamiento (PTQ) en NumPy puro con reducción del 75% del tamaño de red sin pérdida de precisión.
+* 📈 **[`crypto-watcher`](https://github.com/josemtx/crypto-watcher)**: Plataforma de inteligencia de mercado en tiempo real con arquitecturas Kappa y Hexagonal en Java 21 + ActiveMQ y análisis de sentimiento NLP.
+* 🚗 **[`TriCar`](https://github.com/josemtx/TriCar)**: Aplicación web Full-Stack (MERN) con algoritmo ponderado para asignación equitativa de conductores y balance de deudas.
 
 #### **Proyectos Colaborativos**
-* 🏎️ **[`f1-weather-rec-system`](https://github.com/jose-mataix-perez/f1-weather-rec-system)**: Sistema analítico multiplataforma (Java + Python Flask/PyQt + MongoDB) para correlacionar telemetría y rendimiento de Fórmula 1 con condiciones meteorológicas en tiempo real.
-* 🏀 **[`nba-player-stats-analysis`](https://github.com/jose-mataix-perez/nba-player-stats-analysis)**: Análisis exploratorio de datos (EDA) y analítica deportiva avanzada en R (`dplyr`, `ggplot2`) sobre estadísticas de la NBA y optimización de quintetos iniciales.
+* 🏎️ **[`f1-weather-rec-system`](https://github.com/josemtx/f1-weather-rec-system)**: Sistema analítico multiplataforma (Java + Python Flask/PyQt + MongoDB) para correlacionar telemetría y rendimiento de Fórmula 1 con condiciones meteorológicas en tiempo real.
+* 🏀 **[`nba-player-stats-analysis`](https://github.com/josemtx/nba-player-stats-analysis)**: Análisis exploratorio de datos (EDA) y analítica deportiva avanzada en R (`dplyr`, `ggplot2`) sobre estadísticas de la NBA y optimización de quintetos iniciales.
 
 ---
 
