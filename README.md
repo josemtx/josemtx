@@ -8,8 +8,6 @@
 * 📊 Experiencia práctica en **Data Engineering, pipelines ETL y Business Intelligence** (SQL Server, Power BI).
 * ⚙️ Especial interés en arquitecturas de datos orientadas a eventos (Kappa/Hexagonal), optimización de modelos a bajo nivel (PTQ) y analítica deportiva.
 * 🎯 **Modelado predictivo que se mide contra la realidad**: validación fuera de muestra, backtests walk-forward, intervalos calibrados y comparación contra el baseline trivial antes de creerme un modelo.
-* 🛠️ Busco incorporarme a un equipo técnico donde resolver problemas de negocio reales y formalizar mi TFG aportando soluciones de ingeniería.
-
 ---
 
 ### 🛠️ Stack Tecnológico & Habilidades
